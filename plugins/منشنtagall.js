@@ -9,7 +9,7 @@ let oi = `*𝙈𝙚𝙣𝙨𝙖𝙟𝙚:* ${pesan}`
 let teks = `╭┄〔 *${wm}* 〕┄⊱\n┆⺀𝘼𝙘𝙩𝙞𝙫𝙚 𝙜𝙧𝙪𝙥𝙤𝙨 🗣️⺀*\n┆\n┆❏ ${oi}\n┆\n┆❏ *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
 for (let mem of participants) {
 teks += `┆🔸 @${mem.id.split('@')[0]}\n`}
-teks += `*└* 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫\n\n*▌│█║▌║▌║║▌║▌║▌║█*`
+teks += `*└* 𝑴𝑨𝑹𝑶𝑩𝒐𝒕-𝑴𝑫\n\n*▌│█║▌║▌║║▌║▌║▌║█*`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 conn.sendFile(m.chat, vn, 'Invocar.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
