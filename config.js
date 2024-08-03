@@ -8,24 +8,24 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['967773685143', ' 𝑨𝑹𝑻𝑯𝑼𝑹..🖤', true],
-  ['967773685143', ' 𝑨𝑹𝑻𝑯𝑼𝑹..🖤', true]
+  ['201102313298', ' 𝑴𝑨𝑹𝑶..🖤', true],
+  ['201094534865', ' 𝑴𝑨𝑹𝑶..🖤', true]
 ];
 // يمكنك تغير البرمجه من هنا كل ما عليك هوا تغير الاصفر مثل '✆⏐' تحط الزخرفه الخاصه بك مثل '★|•' هكذا 
-global.accc = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.avvv = '✦ 967773685143';
-global.suittag = ['967773685143', '967773685143'];
-global.prems = ['967773685143', '967773685143'];
+global.accc = '𝑴𝑨𝑹𝑶';
+global.avvv = '✦ 201094534865';
+global.suittag = ['201094534865', '201102313298'];
+global.prems = ['201094534865', '201102313298'];
 
-global.anabro = "𝑨𝑹𝑻𝑯𝑼𝑹";
-global.veeeee = "  𝑨𝑹𝑻𝑯𝑼𝑹..🖤 \n✦ 967773685143 ✦";
-global.veeee = "𝑨𝑹𝑻𝑯𝑼𝑹";
-global.packname = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.author = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.wm = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.titulowm = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.titulowm2 = `𝑨𝑹𝑻𝑯𝑼𝑹`
-global.igfg = '𝑨𝑹𝑻𝑯𝑼𝑹';
+global.anabro = "𝑴𝑨𝑹𝑶";
+global.veeeee = "  𝑴𝑨𝑹𝑶..🖤 \n✦ 201094534865 ✦";
+global.veeee = "𝑴𝑨𝑹𝑶";
+global.packname = '𝑴𝑨𝑹𝑶';
+global.author = '𝑴𝑨𝑹𝑶';
+global.wm = '𝑴𝑨𝑹𝑶';
+global.titulowm = '𝑴𝑨𝑹𝑶';
+global.titulowm2 = `𝑴𝑨𝑹𝑶`
+global.igfg = '𝑴𝑨𝑹𝑶';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -46,15 +46,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑨𝑹𝑻𝑯𝑼𝑹`;
-global.gt = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.mysticbot = '𝑨𝑹𝑻𝑯𝑼𝑹';
-global.md = 'https://atom.bio/kurosaki_mah';
-global.mysticbot = 'https://atom.bio/kurosaki_mah';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑴𝑨𝑹𝑶`;
+global.gt = '𝑴𝑨𝑹𝑶';
+global.mysticbot = '𝑴𝑨𝑹𝑶';
+global.md = 'https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T';
+global.mysticbot = 'https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
-global.nomorown = '967773685143';
+global.nomorown = '201094534865';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
