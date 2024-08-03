@@ -4,11 +4,11 @@ global.dfail('admin', m, conn)
 throw false
 }//غير ڤينوم و حط اسم بوتك
 let pesan = args.join` `
-let oi = `*┃𝐸𝑅𝐸𝑁-𝐵𝛩𝑇┃〄* ${pesan}`
+let oi = `*┃𝑴𝑨𝑹𝑶-𝑩𝑶𝑻┃〄* ${pesan}`
 let teks = `*✦┇تـفـاعـلـوا↞┇✦* \n\n ${oi}\n\n*❮⚡️┇الـجــروب┇⚡️❯*\n`
 for (let mem of participants) {
 teks += `*🍁┇* @${mem.id.split('@')[0]}\n`}
-teks += `*𝑬𝑹𝑰𝑵- 𝑩𝑶𝑻┇✜*\n\n*𝑬𝑹𝑰𝑵&𝑨𝑹𝑻𝑯𝑼𝑹*`
+teks += `*𝑴𝑨𝑹𝑶- 𝑩𝑶𝑻┇✜*\n\n*https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T*`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
 handler.help = ['tagall <mesaje>','invocar <mesaje>']
