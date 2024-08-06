@@ -39,7 +39,7 @@
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^8.0.0",
     "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
-    "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
+    "@xct007/frieren-scraper": "https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T",
     "@sefinek/google-tts-api": "*",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.6.2",
@@ -93,7 +93,7 @@
     "wa-sticker-formatter": "^4.3.2",
     "yargs": "^17.3.1",
     "yt-search": "^2.10.3",
-    "ytdl-core": "github:khlevon/node-ytdl-core#v4.11.4-patch.2"
+    "ytdl-core": "https://whatsapp.com/channel/0029Vacc9DXEAKWIWX8nQu1T"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
